@@ -1,0 +1,2 @@
+node==v21.6.2
+playwright==1.41.2
